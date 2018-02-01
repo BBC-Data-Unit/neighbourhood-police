@@ -38,6 +38,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Chronicle Live: [Neighbourhood policing: Drastic fall in number of local bobbies on the beat](https://www.chroniclelive.co.uk/news/north-east-news/neighbourhood-policing-drastic-fall-number-14232069)
 * Daily Gazette and Essex County Standard: [Essex Police working with 600 fewer officers than five years ago](http://www.gazette-news.co.uk/news/15910385.Essex_Police_working_with_600_fewer_officers_than_five_years_ago__statistics_show/)
 * Northamptonshire Telegraph: [Police officers in Northamptonshire at lowest number since 2013](https://www.northantstelegraph.co.uk/news/police-officers-in-northamptonshire-at-lowest-number-since-2013-1-8358858)
+* Cornwall Live: [Nearly half of officers lost from Devon and Cornwall Police in the past five years according to latest Home Office figures](https://www.cornwalllive.com/news/nearly-half-officers-lost-devon-1143002)
 * Mix 96: [Almost 260 fewer officers in Thames Valley compared to 2012](https://www.mix96.co.uk/news/local/2491821/almost-260-fewer-officers-in-thames-valley-compared-to-2012/)
 * Lincolnshire Live: [Startling figures reveal neighbourhood police officers slashed by more than half](http://www.lincolnshirelive.co.uk/news/local-news/startling-figures-reveal-neighbourhood-police-1146789)
 * Leeds Live: [West Yorkshire Police axed 400 neighbourhood officers in the last year](https://www.leeds-live.co.uk/news/leeds-news/west-yorkshire-police-axed-400-14221867)
