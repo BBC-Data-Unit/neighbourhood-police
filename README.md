@@ -42,9 +42,9 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Mix 96: [Almost 260 fewer officers in Thames Valley compared to 2012](https://www.mix96.co.uk/news/local/2491821/almost-260-fewer-officers-in-thames-valley-compared-to-2012/)
 * Lincolnshire Live: [Startling figures reveal neighbourhood police officers slashed by more than half](http://www.lincolnshirelive.co.uk/news/local-news/startling-figures-reveal-neighbourhood-police-1146789)
 * Leeds Live: [West Yorkshire Police axed 400 neighbourhood officers in the last year](https://www.leeds-live.co.uk/news/leeds-news/west-yorkshire-police-axed-400-14221867)
-* Shields Gazette: [https://www.shieldsgazette.com/news/police-officer-numbers-fall-as-budget-cuts-hit-force-1-8992837](https://www.shieldsgazette.com/news/police-officer-numbers-fall-as-budget-cuts-hit-force-1-8992837)
+* Shields Gazette: [Police officer numbers fall as budget cuts hit force](https://www.shieldsgazette.com/news/police-officer-numbers-fall-as-budget-cuts-hit-force-1-8992837)
 * Hartlepool Mail: [Number of beat bobbies falls as budget cuts hit](https://www.hartlepoolmail.co.uk/news/number-of-beat-bobbies-falls-as-budget-cuts-hit-1-8992833)
-* Somerset Live: [https://www.somersetlive.co.uk/news/somerset-news/nearly-400-fewer-police-streets-1145233](https://www.somersetlive.co.uk/news/somerset-news/nearly-400-fewer-police-streets-1145233)
+* Somerset Live: [Nearly 400 fewer police on the streets of Avon and Somerset since 2012](https://www.somersetlive.co.uk/news/somerset-news/nearly-400-fewer-police-streets-1145233)
 * The story was also covered by BBC Radio 5 live, BBC Radio Wales, BBC Radio Kent, Good Morning Ulster, BBC Radio London, Midlands Today, North West Today, BBC Somerset, BBC Radio Berkshire, BBC Wiltshire, BBC Radio Devon, BBC Radio Cornwall, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Shropshire, BBC Radio Stoke, BBC WM, BBC Lancashire, BBC Hereford & Worcester, BBC Coventry & Warwickshire
 
 
