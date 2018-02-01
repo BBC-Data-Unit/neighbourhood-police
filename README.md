@@ -45,6 +45,10 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Shields Gazette: [Police officer numbers fall as budget cuts hit force](https://www.shieldsgazette.com/news/police-officer-numbers-fall-as-budget-cuts-hit-force-1-8992837)
 * Hartlepool Mail: [Number of beat bobbies falls as budget cuts hit](https://www.hartlepoolmail.co.uk/news/number-of-beat-bobbies-falls-as-budget-cuts-hit-1-8992833)
 * Somerset Live: [Nearly 400 fewer police on the streets of Avon and Somerset since 2012](https://www.somersetlive.co.uk/news/somerset-news/nearly-400-fewer-police-streets-1145233)
+* Gloucestershire Live: [When did you last see a police officer? More than 100 neighbourhood cops lost from Gloucestershire's streets as violent crime hits record high](http://www.gloucestershirelive.co.uk/news/gloucester-news/you-last-see-police-officer-1146053)
+* Chronicle Live: [Neighbourhood policing: Drastic fall in number of local bobbies on the beat](https://www.chroniclelive.co.uk/news/north-east-news/neighbourhood-policing-drastic-fall-number-14232069)
+* Liverpool Echo: [How many bobbies on the beat has Merseyside lost? You might be surprised...](https://www.liverpoolecho.co.uk/news/liverpool-news/how-many-bobbies-beat-merseyside-14230063)
+* Spirit FM: [Cuts to neighbourhood policing in Sussex revealed](https://www.spiritfm.net/news/sussex-news/2492950/cuts-to-neighbourhood-policing-in-sussex-revealed/)
 * The story was also covered by BBC Radio 5 live, BBC Radio Wales, BBC Radio Kent, Good Morning Ulster, BBC Radio London, Midlands Today, North West Today, BBC Somerset, BBC Radio Berkshire, BBC Wiltshire, BBC Radio Devon, BBC Radio Cornwall, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Shropshire, BBC Radio Stoke, BBC WM, BBC Lancashire, BBC Hereford & Worcester, BBC Coventry & Warwickshire
 
 
