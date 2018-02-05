@@ -16,6 +16,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Belfast Telegraph: [PSNI cuts result in 1,000 fewer officers on the beat](https://www.belfasttelegraph.co.uk/news/northern-ireland/psni-cuts-result-in-1000-fewer-officers-on-the-beat-36558157.html)
 * Hull Daily Mail: [Hull has more neighbourhood police officers on the beat now than five years ago](http://www.hulldailymail.co.uk/news/hull-east-yorkshire-news/hull-more-neighbourhood-police-officers-1147601)
 * East Anglian Daily Times: [Suffolk and Essex propping up national table for neighbourhood police presence](http://www.eadt.co.uk/news/suffolk-and-essex-have-among-fewest-neighbourhood-police-officers-and-pcsos-per-1-000-people-1-5377691)
+* Planet Radio: [Teesside lose nearly a QUARTER of its neighbourhood police officers - despite a warning they're the ones who can help prevent terror](https://planetradio.co.uk/tfm/local/news/teesside-lose-nearly-quarter-neighbourhood-police-officers-despite-warning-ones-can-help-prevent-terror/)
 * Lancashire Post: [Lancashire's thinner blue line](https://www.lep.co.uk/news/crime/lancashire-s-thinner-blue-line-1-8992817)
 * Portsmouth: The News: [Councillor hunts down Portsmouth yobs after cuts mean no cop available](https://www.portsmouth.co.uk/news/crime/councillor-hunts-down-portsmouth-yobs-after-cuts-mean-no-cop-available-1-8359213)
 * Portsmouth: The News: [The thin blue line is starting to look very threadbare](https://www.portsmouth.co.uk/news/opinion/the-thin-blue-line-is-starting-to-look-very-threadbare-1-8358888)
@@ -53,6 +54,8 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Eastern Daily Press: ['It does worry you’ - victims voice fears after figures reveal Norfolk has lost more than half its neighbourhood police officers in five years](http://www.edp24.co.uk/news/crime/victims-concern-after-big-fall-in-number-of-neighbourhood-police-officers-in-norfolk-1-5377286)
 * Spirit FM: [Cuts to neighbourhood policing in Sussex revealed](https://www.spiritfm.net/news/sussex-news/2492950/cuts-to-neighbourhood-policing-in-sussex-revealed/)
 * Falmouth Packet: [Devon and Cornwall Police cut neighbourhood officer number by half over past five years](http://www.falmouthpacket.co.uk/news/15914513.Number_of_neighbourhood_officers_in_Devon_and_Cornwall_Police_have_slashed_by_half_in_the_past_five_years__new_research_shows/)
+* The Lowestoft Journal: [Suffolk and Essex propping up national table for neighbourhood police presence](http://www.lowestoftjournal.co.uk/news/suffolk-essex-national-table-neighbourhood-police-presence-1-5378939?utm_medium=twitter&utm_source=dlvr.it)
+* Beccles & Bungay Journal: [Suffolk and Essex propping up national table for neighbourhood police presence](http://www.becclesandbungayjournal.co.uk/news/suffolk-essex-national-table-neighbourhood-police-presence-1-5378939?utm_medium=twitter&utm_source=dlvr.it)
 * The story was also covered by BBC Radio 5 live, BBC Radio 4 - World at One, BBC Radio Wales, BBC Radio Kent, Good Morning Ulster, BBC Radio London, Midlands Today, North West Today, BBC Somerset, BBC Radio Berkshire, BBC Wiltshire, BBC Radio Devon, BBC Radio Cornwall, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Shropshire, BBC Radio Stoke, BBC WM, BBC Lancashire, BBC Hereford & Worcester, BBC Coventry & Warwickshire
 
 
