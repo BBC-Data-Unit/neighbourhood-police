@@ -58,6 +58,7 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Beccles & Bungay Journal: [Suffolk and Essex propping up national table for neighbourhood police presence](http://www.becclesandbungayjournal.co.uk/news/suffolk-essex-national-table-neighbourhood-police-presence-1-5378939?utm_medium=twitter&utm_source=dlvr.it)
 * Rossendale Free Press: [Rossendale Scribbler: Under-funding is reason thin blue line is becoming overstretched](https://www.rossendalefreepress.co.uk/news/local-news/rossendale-scribbler-under-funding-reason-14251356)
 * Bristol Post: [Number of Police officers in Avon and Somerset is lowest for at least five years](https://www.bristolpost.co.uk/news/bristol-news/number-police-officers-avon-somerset-1169376)
+* Worcester News: [Bobbies on the beat down 14 per cent in five years - but police and rime commissioner John Campion vows to protect officer numbers](http://www.worcesternews.co.uk/news/15923334.Bobbies_on_the_beat_down_14_per_cent_in_five_years___but_crime_commissioner_vows_to_protect_officer_numbers/)
 * The story was also covered by BBC Radio 5 live, BBC Radio 4 - World at One, BBC Radio Wales, BBC Radio Kent, Good Morning Ulster, BBC Radio London, Midlands Today, North West Today, BBC Somerset, BBC Radio Berkshire, BBC Wiltshire, BBC Radio Devon, BBC Radio Cornwall, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Shropshire, BBC Radio Stoke, BBC WM, BBC Lancashire, BBC Hereford & Worcester, BBC Coventry & Warwickshire
 
 
