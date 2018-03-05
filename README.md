@@ -60,6 +60,8 @@ The Shared Data Hub makes data journalism available to news organisations across
 * Bristol Post: [Number of Police officers in Avon and Somerset is lowest for at least five years](https://www.bristolpost.co.uk/news/bristol-news/number-police-officers-avon-somerset-1169376)
 * Worcester News: [Bobbies on the beat down 14 per cent in five years - but police and rime commissioner John Campion vows to protect officer numbers](http://www.worcesternews.co.uk/news/15923334.Bobbies_on_the_beat_down_14_per_cent_in_five_years___but_crime_commissioner_vows_to_protect_officer_numbers/)
 * Cambrian News: [Dyfed-Powys Police bucks the trend with more officers](http://www.cambrian-news.co.uk/article.cfm?id=119094&headline=Dyfed-Powys%20Police%20bucks%20the%20trend%20with%20more%20officers&sectionIs=news&searchyear=2018)
+* Burton Mail: [300 'bobbies on the beat' lost over last five years](https://www.burtonmail.co.uk/news/local-news/300-bobbies-beat-lost-over-1238983)
+* Nottingham Post: [Nottinghamshire Police has lost more than 300 police officers in last five years](https://www.nottinghampost.com/news/local-news/nottinghamshire-police-lost-more-300-1278648)
 * The story was also covered by BBC Radio 5 live, BBC Radio 4 - World at One, BBC Radio Wales, BBC Radio Kent, Good Morning Ulster, BBC Radio London, Midlands Today, North West Today, BBC Somerset, BBC Radio Berkshire, BBC Wiltshire, BBC Radio Devon, BBC Radio Cornwall, BBC Radio Nottingham, BBC Radio Lincolnshire, BBC Radio Shropshire, BBC Radio Stoke, BBC WM, BBC Lancashire, BBC Hereford & Worcester, BBC Coventry & Warwickshire
 
 
